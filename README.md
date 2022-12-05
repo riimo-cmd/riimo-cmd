@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rin-cmd
+- 👋 Hi there, you can call me Rin
 - 👀 I’m interested in web develpment and cloud computing 
 - 🌱 I’m currently learning React
 - 💞️ I’m not looking for colaborators at the momment
